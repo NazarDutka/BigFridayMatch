@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Francheska.iOS", "Franchesk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Francheska", "Francheska\Francheska\Francheska.csproj", "{1D170C1B-84B1-45A1-A378-7D03DC818C0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominic", "Dominic\Dominic.csproj", "{899251C7-F13D-45CB-AC83-096F05F7C6AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,18 @@ Global
 		{1D170C1B-84B1-45A1-A378-7D03DC818C0B}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{1D170C1B-84B1-45A1-A378-7D03DC818C0B}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{1D170C1B-84B1-45A1-A378-7D03DC818C0B}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Release|iPhone.Build.0 = Release|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{899251C7-F13D-45CB-AC83-096F05F7C6AB}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

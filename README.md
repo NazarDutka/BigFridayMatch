@@ -1,5 +1,6 @@
 # BigFridayMatch
-This application should count table football score, for each registered player. Time: all free time until this Friday.
+This application should help players in 2vs2 games.
+
 
 ## Built With
 
@@ -8,17 +9,9 @@ This application should count table football score, for each registered player. 
 * EF Core
 
 
-## Here code example 
+## Application functionality
 
-```javascript
-// Added here fore fun
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
-
----
+* basic users registration;
+* help players to organize 2vs2 games;
+* save games and players score;
+* show players rating;
